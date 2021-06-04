@@ -1,4 +1,4 @@
-# TAD-studios
+# CAD-studios
 A basic dynamic website HTML/CSS/JS
 
 *This is a test project*
